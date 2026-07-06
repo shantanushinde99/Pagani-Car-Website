@@ -23,7 +23,7 @@ export default function HuayraScrollCanvas({ scrollYProgress, totalFrames, image
     for (let i = 0; i < totalFrames; i++) {
       const img = new Image();
       const frameString = i.toString().padStart(6, '0');
-      img.src = `${imageFolderPath}/frame_${frameString}.jpg`;
+      img.src = `${imageFolderPath}/frame_${frameString}.webp`;
       
       img.onload = () => {
         loadedCount++;
