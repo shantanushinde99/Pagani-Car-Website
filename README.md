@@ -1,14 +1,14 @@
 # Pagani Huayra BC | Macchina Volante
 
-![Pagani Huayra BC](public/images/huayra-sequence/frame_000000.webp)
+![Pagani Huayra BC](public/images/huayra-sequence/frame_000000.jpg)
 
 An ultra-premium, Awwwards-style single-page digital experience showcasing the Pagani Huayra BC. This project is built to deliver a highly cinematic, scroll-driven storytelling experience that combines luxury design aesthetics with high-performance web engineering.
 
 ## 🌟 Key Features
 
 <div align="center">
-  <img src="public/images/huayra-sequence/frame_000119.webp" width="48%" />
-  <img src="public/images/engine-sequence/frame_000140.webp" width="48%" />
+  <img src="public/images/huayra-sequence/frame_000119.jpg" width="48%" />
+  <img src="public/images/engine-sequence/frame_000140.jpg" width="48%" />
 </div>
 
 - **Cinematic Scroll Sequences**: Frame-by-frame 4K image sequences tied perfectly to the user's scroll position, creating a seamless "video-like" interactive experience.
@@ -17,8 +17,8 @@ An ultra-premium, Awwwards-style single-page digital experience showcasing the P
 - **Exploded Architecture**: Anti-gravity engineering exhibitions that deconstruct the M158 V12 Biturbo engine and the active aerodynamic flap system.
 
 <div align="center">
-  <img src="public/images/aero-dynamics/frame_000050.webp" width="48%" />
-  <img src="public/images/exploded-aerodynamics/frame_000140.webp" width="48%" />
+  <img src="public/images/aero-dynamics/frame_000050.jpg" width="48%" />
+  <img src="public/images/exploded-aerodynamics/frame_000140.jpg" width="48%" />
 </div>
 
 - **Luxury UI/UX**: Features a custom magnetic Pagani-red cursor, SVG line-drawing pre-loaders, and typography tailored for a high-end automotive atelier.
